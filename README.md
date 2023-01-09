@@ -1,4 +1,4 @@
-# Image-Processing-Processamento-de-Imagem
+# Image-Processing
 
 Repository contains activities done during college learning (All codes (variable names) were made in Portuguese)<br>
 
