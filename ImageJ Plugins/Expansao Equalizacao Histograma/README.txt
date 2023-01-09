@@ -1,2 +1,0 @@
-Plugin para implementar as técnicas de Expansão e Equalização de Histograma, alem de uma simples Interface Gráfica para seleção da técnica.
-Em ambas funções sao usadas metodos matematicos para gerar o resultado.
